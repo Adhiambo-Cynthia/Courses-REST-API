@@ -1,6 +1,8 @@
 # COURSES API
 This small project basically covers building a REST API using the [Django Rest Framework](https://www.django-rest-framework.org)
 
+![main](\img\main.JPG)
+
 ### Requirements
 * Knowledge of Django
 * Basic Knowledge on REST API's
